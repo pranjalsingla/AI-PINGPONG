@@ -28,3 +28,7 @@ body{
     background-color: grey;
     color: white;
 }
+ canvas{
+    border: solid 5px whitesmoke;
+    box-shadow: 2px 2px 2px grey;
+ }
